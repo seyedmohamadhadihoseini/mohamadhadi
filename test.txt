@@ -1,1 +1,9 @@
-print
+using System;
+namespace t{
+ class program{
+	static void Main(){
+}
+	}
+
+
+}
