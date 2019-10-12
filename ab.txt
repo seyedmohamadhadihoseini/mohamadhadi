@@ -1,1 +1,1 @@
-print
+printf("Hello I am C");
