@@ -1,4 +1,6 @@
 #python
 print('Hello I am Python')
 Fradars
-I am a Student
+print("Hello star"
+)
+>>>>>>> fc038bcb1a87a188834ee56876a61ae00ec7d0b4
